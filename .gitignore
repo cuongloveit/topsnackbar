@@ -6,6 +6,8 @@
 .externalNativeBuild
 .idea/
 topsnackbar/build
+gradle/
+.gradle/
 # Built application files
 *.apk
 *.ap_
